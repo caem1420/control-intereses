@@ -1,0 +1,15 @@
+{
+  "name": "manejointereses",
+  "version": "2.1.3",
+  "description": "Una pagina web para el manejo de intereses periodicos y anuales",
+  "main": "main.js",
+  "scripts": {
+    "test": "start",
+    "start": "node main.js"
+  },
+  "author": "Carlos Escobar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
